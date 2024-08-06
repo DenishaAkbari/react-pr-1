@@ -1,0 +1,24 @@
+.card{
+    /* display: flex;
+    justify-content: center; */
+    /* align-items: center; */
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+    width: max-content;
+    margin: 100px auto;
+    flex-direction: column;
+    background-color: rgb(245, 245, 245 , 0.5);
+    padding: 20px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+}
+img {
+    width: 200px;
+    height: auto;
+    margin-left: 130px;    
+    margin-top: 20PX;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+h1{
+    
+}
